@@ -1,0 +1,297 @@
+{
+  "columns": {
+    "wdir": {
+      "id": "wdir",
+      "name": "Wind Direction",
+      "type": 2,
+      "unit": null
+    },
+    "latitude": {
+      "id": "latitude",
+      "name": "Latitude",
+      "type": 2,
+      "unit": null
+    },
+    "cloudcover": {
+      "id": "cloudcover",
+      "name": "Cloud Cover",
+      "type": 2,
+      "unit": "%"
+    },
+    "mint": {
+      "id": "mint",
+      "name": "Minimum Temperature",
+      "type": 2,
+      "unit": "degC"
+    },
+    "datetime": {
+      "id": "datetime",
+      "name": "Date time",
+      "type": 3,
+      "unit": null
+    },
+    "precip": {
+      "id": "precip",
+      "name": "Precipitation",
+      "type": 2,
+      "unit": "mm"
+    },
+    "solarradiation": {
+      "id": "solarradiation",
+      "name": "Solar Radiation",
+      "type": 2,
+      "unit": "W/m^2"
+    },
+    "dew": {
+      "id": "dew",
+      "name": "Dew Point",
+      "type": 2,
+      "unit": "degC"
+    },
+    "humidity": {
+      "id": "humidity",
+      "name": "Relative Humidity",
+      "type": 2,
+      "unit": "%"
+    },
+    "precipcover": {
+      "id": "precipcover",
+      "name": "Precipitation Cover",
+      "type": 2,
+      "unit": "%"
+    },
+    "longitude": {
+      "id": "longitude",
+      "name": "Longitude",
+      "type": 2,
+      "unit": null
+    },
+    "info": {
+      "id": "info",
+      "name": "Info",
+      "type": 1,
+      "unit": null
+    },
+    "temp": {
+      "id": "temp",
+      "name": "Temperature",
+      "type": 2,
+      "unit": "degC"
+    },
+    "address": {
+      "id": "address",
+      "name": "Address",
+      "type": 1,
+      "unit": null
+    },
+    "maxt": {
+      "id": "maxt",
+      "name": "Maximum Temperature",
+      "type": 2,
+      "unit": "degC"
+    },
+    "visibility": {
+      "id": "visibility",
+      "name": "Visibility",
+      "type": 2,
+      "unit": "km"
+    },
+    "wspd": {
+      "id": "wspd",
+      "name": "Wind Speed",
+      "type": 2,
+      "unit": "kph"
+    },
+    "solarenergy": {
+      "id": "solarenergy",
+      "name": "Solar Energy",
+      "type": 2,
+      "unit": "J/m^2"
+    },
+    "resolvedAddress": {
+      "id": "resolvedAddress",
+      "name": "Resolved Address",
+      "type": 1,
+      "unit": null
+    },
+    "heatindex": {
+      "id": "heatindex",
+      "name": "Heat Index",
+      "type": 2,
+      "unit": "degC"
+    },
+    "weathertype": {
+      "id": "weathertype",
+      "name": "Weather Type",
+      "type": 1,
+      "unit": null
+    },
+    "snowdepth": {
+      "id": "snowdepth",
+      "name": "Snow Depth",
+      "type": 2,
+      "unit": "cm"
+    },
+    "sealevelpressure": {
+      "id": "sealevelpressure",
+      "name": "Sea Level Pressure",
+      "type": 2,
+      "unit": "mb"
+    },
+    "snow": {
+      "id": "snow",
+      "name": "Snow",
+      "type": 2,
+      "unit": "cm"
+    },
+    "name": {
+      "id": "name",
+      "name": "Name",
+      "type": 1,
+      "unit": null
+    },
+    "wgust": {
+      "id": "wgust",
+      "name": "Wind Gust",
+      "type": 2,
+      "unit": "kph"
+    },
+    "conditions": {
+      "id": "conditions",
+      "name": "Conditions",
+      "type": 1,
+      "unit": null
+    },
+    "windchill": {
+      "id": "windchill",
+      "name": "Wind Chill",
+      "type": 2,
+      "unit": "degC"
+    }
+  },
+  "remainingCost": 0,
+  "queryCost": 4,
+  "messages": null,
+  "locations": {
+    "Kraków": {
+      "stationContributions": null,
+      "values": [
+        {
+          "wdir": 223.4,
+          "temp": 3.4,
+          "maxt": 5.1,
+          "visibility": 7.7,
+          "wspd": 30.2,
+          "datetimeStr": "2019-01-01T08:00:00+01:00",
+          "solarenergy": 1.7,
+          "heatindex": null,
+          "cloudcover": 69.2,
+          "mint": 0.9,
+          "datetime": 1546329600000,
+          "precip": 0.19,
+          "solarradiation": 69.4,
+          "weathertype": "Snow Showers, Drizzle, Mist, Light Snow, Rain, Rain Showers, Light Rain, Sky Coverage Increasing, Snow",
+          "snowdepth": 0.0,
+          "sealevelpressure": 1017.5,
+          "snow": 0.0,
+          "dew": 1.9,
+          "humidity": 90.38,
+          "precipcover": 10.0,
+          "wgust": 45.4,
+          "conditions": "Rain, Partially cloudy",
+          "windchill": -3.1,
+          "info": null
+        },
+        {
+          "wdir": 268.33,
+          "temp": 1.0,
+          "maxt": 1.1,
+          "visibility": 7.6,
+          "wspd": 28.9,
+          "datetimeStr": "2019-01-02T04:00:00+01:00",
+          "solarenergy": 0.6,
+          "heatindex": null,
+          "cloudcover": 63.3,
+          "mint": 0.9,
+          "datetime": 1546401600000,
+          "precip": 0.67,
+          "solarradiation": 34.0,
+          "weathertype": "Snow And Rain Showers, Snow Showers, Ice, Light Snow, Light Rain And Snow, Rain Showers, Light Rain, Snow",
+          "snowdepth": 1.21,
+          "sealevelpressure": 1011.3,
+          "snow": 1.21,
+          "dew": -0.4,
+          "humidity": 90.25,
+          "precipcover": 16.67,
+          "wgust": 39.5,
+          "conditions": "Snow, Partially cloudy",
+          "windchill": -5.0,
+          "info": null
+        },
+        {
+          "wdir": 302.25,
+          "temp": 0.7,
+          "maxt": 1.0,
+          "visibility": 11.0,
+          "wspd": 24.1,
+          "datetimeStr": "2019-01-02T14:00:00+01:00",
+          "solarenergy": 0.3,
+          "heatindex": null,
+          "cloudcover": 72.6,
+          "mint": 0.0,
+          "datetime": 1546437600000,
+          "precip": 0.0,
+          "solarradiation": 37.5,
+          "weathertype": "Snow Showers, Light Snow, Rain, Rain Showers, Snow",
+          "snowdepth": 1.38,
+          "sealevelpressure": 1015.7,
+          "snow": 0.17,
+          "dew": -2.6,
+          "humidity": 79.24,
+          "precipcover": 0.0,
+          "wgust": 41.9,
+          "conditions": "Snow, Partially cloudy",
+          "windchill": -5.4,
+          "info": null
+        },
+        {
+          "wdir": 278.5,
+          "temp": -3.1,
+          "maxt": -3.0,
+          "visibility": 13.2,
+          "wspd": 23.2,
+          "datetimeStr": "2019-01-03T00:00:00+01:00",
+          "solarenergy": 0.2,
+          "heatindex": null,
+          "cloudcover": 50.9,
+          "mint": -3.1,
+          "datetime": 1546473600000,
+          "precip": 0.0,
+          "solarradiation": 29.5,
+          "weathertype": "Snow Showers, Light Snow, Rain Showers, Snow",
+          "snowdepth": 2.0,
+          "sealevelpressure": 1023.5,
+          "snow": 0.04,
+          "dew": -5.7,
+          "humidity": 81.7,
+          "precipcover": 0.0,
+          "wgust": 21.3,
+          "conditions": "Snow, Partially cloudy",
+          "windchill": -9.6,
+          "info": null
+        }
+      ],
+      "id": "Kraków",
+      "address": "Kraków, Woj. Małopolskie, Polska",
+      "name": "Kraków, Woj. Małopolskie, Polska",
+      "index": 0,
+      "latitude": 50.0605,
+      "longitude": 19.9324,
+      "distance": 0.0,
+      "time": 0.0,
+      "tz": "Europe/Warsaw",
+      "currentConditions": null,
+      "alerts": null
+    }
+  }
+}
